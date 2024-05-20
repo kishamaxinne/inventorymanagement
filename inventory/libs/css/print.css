@@ -1,0 +1,21 @@
+
+h3.dashLogo{
+    color: #ef6b48;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+}div.dashboard_sidebar_user img{
+    width: 200px;
+    display: inline-block;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+}
+@page{
+    size: A4;
+    margin: 0;
+}
+#print-btn{
+    display: none;
+    visibility: none;
+}
